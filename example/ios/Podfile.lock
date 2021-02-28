@@ -388,7 +388,9 @@ PODS:
   - RNVectorIcons (8.1.0):
     - React-Core
   - VisionCamera (1.0.0-alpha.6):
-    - React-Core
+    - VisionCamera/FrameProcessors (= 1.0.0-alpha.6)
+  - VisionCamera/FrameProcessors (1.0.0-alpha.6):
+    - ReactCommon/turbomodule/core
   - Yoga (1.14.0)
   - YogaKit (1.18.1):
     - Yoga (~> 1.14)
@@ -601,7 +603,7 @@ SPEC CHECKSUMS:
   RNReanimated: 31d4b60fe6509e161b4c461dee70d98a9c7af6b6
   RNStaticSafeAreaInsets: 6103cf09647fa427186d30f67b0f5163c1ae8252
   RNVectorIcons: 31cebfcf94e8cf8686eb5303ae0357da64d7a5a4
-  VisionCamera: da6b55f21bd2f252ec8324c6b76f636d75e00e8d
+  VisionCamera: a64522440b44d9f8c2052170a163a880c8cfab17
   Yoga: 31313df467e58b5b53f26a0319fa100159c79fa3
   YogaKit: f782866e155069a2cca2517aafea43200b01fd5a
 
